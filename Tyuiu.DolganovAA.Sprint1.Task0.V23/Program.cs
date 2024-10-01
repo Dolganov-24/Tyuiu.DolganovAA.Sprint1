@@ -1,6 +1,6 @@
 ﻿using Tyuiu.DolganovAA.Sprint1.Task0.V23.Lib;
 namespace Tyuiu.DolganovAA.Sprint1.Task0.V23
-{
+{ 
     internal class Program
     {
         static void Main(string[] args)
