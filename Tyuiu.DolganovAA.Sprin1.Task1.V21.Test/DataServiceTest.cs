@@ -13,5 +13,5 @@ namespace Tyuiu.DolganovAA.Sprint1.Task1.V21.Test
             var res = ds.Calculate(x, y);
             Assert.AreEqual(0.4, res);
         }
-    }
+    } 
 } 
