@@ -14,4 +14,4 @@ namespace Tyuiu.DolganovAA.Sprint1.Task2.V21.Test
             Assert.AreEqual(20, res);
         }
     }
-}
+} 
