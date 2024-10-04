@@ -37,7 +37,7 @@ namespace Tyuiu.DolganovAA.Sprint1.Task2.V21
             Console.WriteLine("******************************************************************************");
 
 
-            Console.WriteLine("Площадь прямоугольнка x / y  =" + ds.CalculateRectangleSquare(x, y));
+            Console.WriteLine("Площадь прямоугольнка [ x / y ] =" + ds.CalculateRectangleSquare(x, y));
             Console.ReadLine();
 
 
