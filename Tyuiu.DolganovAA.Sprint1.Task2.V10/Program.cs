@@ -36,7 +36,7 @@ namespace Tyuiu.DolganovAA.Sprint1.Task2.V10
             Console.WriteLine("При переводе из x метров получилось дюймов =" + ds.ConvertMetreToInchs(x));
             Console.ReadLine();
 
-
+             
         }
     }
 }

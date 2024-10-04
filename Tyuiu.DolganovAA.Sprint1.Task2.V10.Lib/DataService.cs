@@ -5,7 +5,7 @@ namespace Tyuiu.DolganovAA.Sprint1.Task2.V10.Lib
     {
         public double ConvertMetreToInchs(int value)
         {
-            return value * 3.28;
+            return value * 3.28; 
         }
     }
 }

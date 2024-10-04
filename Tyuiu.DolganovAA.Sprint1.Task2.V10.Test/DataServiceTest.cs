@@ -9,7 +9,7 @@ namespace Tyuiu.DolganovAA.Sprint1.Task2.V10.Test
         {
             DataService ds = new DataService();
             int x = 5;
-            var res = ds.ConvertMetreToInchs(x);
+            var res = ds.ConvertMetreToInchs(x); 
             Assert.AreEqual(16.40, res);
         }
     }
