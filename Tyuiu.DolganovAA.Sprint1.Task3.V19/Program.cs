@@ -40,7 +40,7 @@ namespace Tyuiu.DolganovAA.Sprint1.Task3.V19
 
 
             Console.WriteLine("Исход  :" + ds.ElephCanMove( x1,  y1,  x2,  y2));
-            Console.ReadKey(); 
+            Console.ReadKey();
 
         }
     }

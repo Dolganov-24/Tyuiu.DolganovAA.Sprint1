@@ -21,7 +21,7 @@ namespace Tyuiu.DolganovAA.Sprint1.Task3.V19.Test
             DataService ds = new DataService();
             Assert.IsFalse(ds.ElephCanMove(1, 1, 2, 3));
             Assert.IsFalse(ds.ElephCanMove(4, 4, 5, 6));
-            Assert.IsFalse(ds.ElephCanMove(3, 5, 6, 7)); 
+            Assert.IsFalse(ds.ElephCanMove(3, 5, 6, 7));
         }
 
     }
